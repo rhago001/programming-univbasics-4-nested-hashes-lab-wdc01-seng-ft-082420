@@ -58,12 +58,12 @@ def dennis_ritchies_language
         :known_for => "Unix",
         :languages => ["C"]
       }
- 		}
+ 		}end
      programmer_hash[:yukihiro_matsumoto]={:known_for => "Ruby",
         :languages => ["LISP", "C"]}
  		  
  		
-end
+
 
 
 def adding_matz
