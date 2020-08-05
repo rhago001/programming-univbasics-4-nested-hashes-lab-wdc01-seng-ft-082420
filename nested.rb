@@ -23,7 +23,7 @@ end
 def alan_kay_is_known_for
 	# What combination of keys would you use to return the value of the :known_for key of :alan_kay
 	
-	return alan_kay_is_known_for
+ alan_kay_is_known_for
 	
 	programmer_hash = 
  		{
